@@ -1,0 +1,49 @@
+quick
+444040
+262222
+322E2E
+
+text
+121010
+
+functions, templates, operators, methods
+6A6868
+
+types, keywords, enums, interfaces, type params
+767474
+
+params, feilds
+807C7C
+
+operators, types, line number
+BBB9B9
+
+string, literals, text, call return
+928E8E
+
+comments
+565252
+
+control keyword, include, preprocessor, memory, disasm
+787474
+
+numbers
+9D9999
+
+string delimiter
+BDB9B9
+
+error
+F48771
+
+escape
+8A8686
+
+selected
+585656
+595757 - alt
+3399FF - Original
+
+6E393D
+
+FF121010

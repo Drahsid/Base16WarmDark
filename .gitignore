@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+*.bak
+Base16WarmDark/notes.txt
+Base16WarmDark/notes-nfu.txt
+Base16WarmDark/CustomTheme.vstheme.bak
